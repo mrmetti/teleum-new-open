@@ -36,11 +36,11 @@
 - <p align="left">Clone Source:
 ```sh
 cd $home
-git clone https://github.com/janlou/AdvanSource
+git clone https://github.com/mahdigh2/teleumbrella_2lang
 ```
 - <p align="left">First install:
 ```sh
-cd AdvanSource
+cd teleumbrella_2lang
 cd .run
 chmod 777 adv.sh
 ./adv.sh r
