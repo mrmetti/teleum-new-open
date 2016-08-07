@@ -1276,7 +1276,7 @@ local function run(msg, matches)
 			if not group_link then
 				return "ابتدا لینک جدیدی ایجاد یا ذخیره کنید"
 			end
-			return "لینک گروه :(Powered by: @AdvanTM)\n"..group_link
+			return "لینک گروه :\n"..group_link
 		end
 
 		if matches[1] == "invite" and is_admin1(msg) then
