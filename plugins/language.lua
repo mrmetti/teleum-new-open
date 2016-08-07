@@ -208,9 +208,9 @@ end
 end
  return {
  advan = {
- "Created by: @janlou",
- "Powered by: @AdvanTm",
- "CopyRight all right reserved",
+ "Created by: @persianfa",
+ "Powered by: @teleumbrellla_team",
+ "tanx all",
  },
  patterns = {
            "^[!#/](setlang) (fa)$",
