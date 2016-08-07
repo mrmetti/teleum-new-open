@@ -1,74 +1,71 @@
 
 Commands list :
-⚓️!kick [username|id]
+⚜ ️!kick [username|id]
 اخراج افراد
-⚓️!ban [ username|id]
+⚜ ️!ban [ username|id]
 تحریم افراد از گروه
-⚓️!unban [id]
+⚜ ️!unban [id]
 حذف تحریم
-⚓️!modlist
+⚜ ️!modlist
 لیست مدیران
-⚓️!note <text>
+⚜ ️!note <text>
 ذخیره کردن یک یادداشت
-⚓️!mynote
+⚜ ️!mynote
 مشاهده یادداشت
-⚓️!promote [username]
+⚜ ️!promote [username]
 ترفیع یک فرد
-⚓️!demote [username]
+⚜ ️!demote [username]
 تنزل درجه
-⚓️!kickme
+⚜ ️!kickme
 خروج از گروه
-⚓️!about
+⚜ ️!about
 توضیحات گروه
-⚓️!setphoto
+⚜ ️!setphoto
 تنظیم عکس گروه
-⚓️!setname [name]
+⚜ ️!setname [name]
 تنظیم نام گروه
-⚓️!rules
+⚜ ️!rules
 قوانین گروه
-⚓️!id
+⚜  ️!id
 مشاهده آیدی گروه
-⚓️!help
+⚜ ️!help
 متن راهنما
-⚓️!lock [links|flood|spam|member|rtl|sticker|contacts]
+⚜ ️!lock [links|flood|spam|member|rtl|sticker|contacts]
 قفل کردن موارد بالا
 *rtl: حذف سریع پیام های ورود و خروج کاربران*
-⚓️!unlock [links|flood|spam|member|rtl|sticker|contacts]
+⚜ ️!unlock [links|flood|spam|member|rtl|sticker|contacts]
 بازکردن قفل موارد بالا
-⚓️!mute [all|audio|gifs|photo|video]
+⚜ ️!mute [all|audio|gifs|photo|video]
 ساکت کردن یکی از موارد(میوت)
 *وقتی کسی یا چیزی میوت شود پیام های او بلافاصله توسط ربات حذف میشود*
-⚓️!unmute [all|audio|gifs|photo|video]
+⚜ ️!unmute [all|audio|gifs|photo|video]
 خروج از سکوت(آنمیوت)
 *کاربر یا چیزی که میوت شده بود به حالت عادی بازمیگردد*
-⚓️!set rules <text>
+⚜  ️!set rules <text>
 تنظیم قوانین گروه
-⚓️!set about <text>
+⚜  ️!set about <text>
 تنظیم توضیحات گروه
-⚓️!settings
+⚜ ️!settings
 مشاهده تنظیمات
-⚓️!muteslist
+⚜ ️!muteslist
 لیست چیز های میوت شده
-⚓️!muteuser [username]
+⚜ ️!muteuser [username]
 ساکت کردن یک فرد
 *پیام های او پاک خواهد شد*
-⚓️!mutelist
+⚜ ️!mutelist
 لیست افراد میوت شده
-⚓️!newlink
+⚜ ️!newlink
 لینک جدید
-⚓️!link
+⚜ ️!link
 لینک گروه
-⚓️!owner
+⚜ ️!owner
 سازنده کیست؟
-⚓️!setowner [id]
+⚜ ️!setowner [id]
 تنظیم سازنده گروه
-⚓️!setflood [value]
+⚜ ️!setflood [value]
 تنظیم مقدار فلود
-⚓️!clear [modlist|rules|about]
+⚜ ️!clear [modlist|rules|about]
 پاک کردن کلی موارد بالا
-⚓️!banlist
+⚜ ️!banlist
 لیست تحریم شدگان
-**You can use "#", "!", or "/" to begin all commands
-*Only owner and mods can add bots in group
-*Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
-*Only owner can use res,setowner,promote,demote and log commands
+
