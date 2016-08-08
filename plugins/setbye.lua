@@ -41,9 +41,9 @@ end
 
 return {
  advan = {
-   "Created by: @janlou",
-   "Powered by: @AdvanTM",
-   "CopyRight all right reserved",
+   "Created by: @persianfa",
+   "Powered by: @teleumbrellla_team",
+   "tanx all",
  },
  patterns = {
   "^[!#/]([Ss]etbye) (.*)$",
