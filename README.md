@@ -1,4 +1,4 @@
-<h1 align="center">`[⚓️](AdvanSource`, _fast & original cli bot)_</h1><p align=centert">  <p align="left" It is an anti spam bot (CLI) with fast speed and free for you! based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) and powered by [mr.metti™](http://telegram.me/persianfa), this source have an original *Autolaunch* and *Steady script* for your ubuntu server.
+<h1 align="center">`[⚓️](TeleUmbrella`, _fast & original cli bot)_</h1><p align=centert">  <p align="left" It is an anti spam bot (CLI) with fast speed and free for you! based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) and powered by [mr.metti™](http://telegram.me/persianfa), this source have an original *Autolaunch* and *Steady script* for your ubuntu server.
 ## You can create an account for free in:
 |Rank | Name | Adress |
 |:--------|:----------|:------------|
