@@ -1,6 +1,4 @@
-<p align="center"> ![http://s2.picofile.com/file/8262029118/source_icon.jpg](http://s2.picofile.com/file/8262029118/source_icon.jpg)
-<h1 align="center">`[⚓️](AdvanSource`, _fast & original cli bot)_</h1><p align=centert">  <p align="left">[![Join the chat at https://gitter.im/janlou/AdvanSource](https://badges.gitter.im/AdvanSource.svg)](https://gitter.im/janlou/AdvanSource?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-<h4> It is an anti spam bot (CLI) with fast speed and free for you! based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) and powered by [ADVAN™](http://telegram.me/advantm), this source have an original *Autolaunch* and *Steady script* for your ubuntu server.
+<h1 align="center">`[⚓️](AdvanSource`, _fast & original cli bot)_</h1><p align=centert">  <p align="left" It is an anti spam bot (CLI) with fast speed and free for you! based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) and powered by [mr.metti™](http://telegram.me/persianfa), this source have an original *Autolaunch* and *Steady script* for your ubuntu server.
 ## You can create an account for free in:
 |Rank | Name | Adress |
 |:--------|:----------|:------------|
@@ -64,10 +62,6 @@ tmux new-session -s script "bash steady.sh -t"
 `./start.sh`
 - <p align="left">And you can start bot with sready script:
 
-| FREE SERVER: |
-|:-----------------------|
-| `./steady.sh -t` |
 
-| BOUGHT SERVER: |
-|:-----------------------|
-| `./steady.sh -s` |
+لطفا اسکی نروید و به نام خودتون تغییر ندید , آموزش های نصب هم بالا توضیح داده شده.
+با تشکر , تیم کد نویسی
