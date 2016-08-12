@@ -63,5 +63,6 @@ tmux new-session -s script "bash steady.sh -t"
 - <p align="left">And you can start bot with sready script:
 
 
-لطفا اسکی نروید و به نام خودتون تغییر ندید , آموزش های نصب هم بالا توضیح داده شده.
-با تشکر , تیم کد نویسی
+سورس بدون باگ هستش , موفق باشید 
+امضا : 
+#mr.metti
