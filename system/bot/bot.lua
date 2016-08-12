@@ -225,6 +225,7 @@ function create_config( )
     "help",
     "info",
     "ingroup",
+    "ingroup2",
     "invite",
     "markread",
     "security",
