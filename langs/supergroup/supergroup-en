@@ -1287,7 +1287,7 @@ local function run(msg, matches)
 			if not group_link then
 				return "Create a link using /newlink first!\n\nOr if I am not creator use /setlink to set your link"
 			end
-			return "Group link:\n"..group_link
+			return "👥Group link :\n"..group_link
 		end
 
 		if matches[1] == "invite" and is_sudo(msg) then
